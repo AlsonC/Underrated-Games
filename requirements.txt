@@ -1,0 +1,8 @@
+pandas
+selenium
+webdriver-manager
+utils
+datetime
+tqdm
+openpyxl
+bs4
